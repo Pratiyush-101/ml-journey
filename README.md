@@ -5,7 +5,7 @@ Learning AI/ML from scratch — 1 hour every day.
 - ✅ Day 2 — Python lists, dicts, comprehensions
 - ✅ Day 3 — NumPy arrays, indexing, standardization
 - ✅ Day 4 — Linear regression & MSE loss from scratch
-- 🔄 Day 4 — Coming tomorrow
+- 🔄 Day 5 — Coming tomorrow
 
 ## 🛠️ Tools
 Python | NumPy | Google Colab
